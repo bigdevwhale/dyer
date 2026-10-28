@@ -6,7 +6,7 @@ line "<!-- tg", then 2-4 short lines in Russian for users (what is new, what is 
 then close it like any HTML comment. The release notes carry it, and the chat bot posts those lines.
 -->
 
-## [Unreleased]
+## [1.0.0] - 2026-10-28
 
 ### Added
 - Four quarters of a faded kingdom (Market Square, the Mill, the Harbour, the Castle) drawn in code and painted in watercolour by the week's plants.
@@ -15,3 +15,9 @@ then close it like any HTML comment. The release notes carry it, and the chat bo
 - Townsfolk who speak as their things get paint; a festival at 30 plants (or 15 with the small brush).
 - Eight tries for an unloved plant, quiet meals that draw details, the guild's order, the dyer's book of kitchen experiments.
 - The shelf of jars, the kingdom with an album of weeks, a weekly report, sharing a week as a picture, the Gloom's finale.
+
+<!-- tg
+Новое приложение «Красильня»: сказочное королевство, из которого Хмарь выпила все краски.
+Каждое растение на тарелке отдаёт свой пигмент, и квартал оживает акварелью. Тридцать разных растений за неделю — и в квартале праздник.
+Без калорий и запретов: есть восемь проб для нелюбимых овощей, тихая трапеза и полка с банками всего, что ты пробовал.
+-->
