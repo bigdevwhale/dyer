@@ -1,0 +1,167 @@
+id	ru	en	latin	family	pigment	kind	season	as	fact_ru	fact_en
+tomato	Помидор	Tomato	Solanum lycopersicum	solanaceae	R	veg	7-9		Томат по ботанике ягода, родом из Анд. В Европе его сперва растили для красоты: боялись, что он ядовит.	Botanically a berry, from the Andes. Europe first grew it as an ornament, afraid it was poisonous.
+pepper	Сладкий перец	Bell pepper	Capsicum annuum	solanaceae	R	veg	7-9		В красном сладком перце витамина C больше, чем в лимоне.	A red bell pepper holds more vitamin C than a lemon.
+eggplant	Баклажан	Aubergine	Solanum melongena	solanaceae	B	veg	8-9		В Европе баклажан когда-то звали «бешеным яблоком» и боялись есть.	Europe once called it the “mad apple” and was afraid to eat it.
+potato	Картофель	Potato	Solanum tuberosum	solanaceae	W	veg			Картофель родом из Анд, и там до сих пор растут тысячи его сортов, от жёлтых до фиолетовых.	From the Andes, where thousands of varieties still grow, from yellow to purple.
+sweetpotato	Батат	Sweet potato	Ipomoea batatas	convolv	O	veg			Батат — родня вьюнка, а вовсе не картошки.	A cousin of the morning glory, not of the potato.
+cucumber	Огурец	Cucumber	Cucumis sativus	cucurbit	G	veg	6-9		Огурец почти весь из воды: её в нём около 95 %. Родом он из предгорий Гималаев.	About 95% water. It comes from the foothills of the Himalayas.
+zucchini	Кабачок	Courgette	Cucurbita pepo	cucurbit	G	veg	7-9		Кабачок, патиссон и цуккини — один вид растения, только разные сорта.	Courgette, marrow and pattypan are one species, just different varieties.
+pumpkin	Тыква	Pumpkin	Cucurbita maxima	cucurbit	O	veg	8-11		По ботанике тыква — ягода, и самая большая на свете.	Botanically a berry, and the largest in the world.
+melon	Дыня	Melon	Cucumis melo	cucurbit	Y	fruit	8-9		Дыня и огурец — один род, Cucumis.	Melon and cucumber share a genus, Cucumis.
+watermelon	Арбуз	Watermelon	Citrullus lanatus	cucurbit	R	fruit	8-9		Арбуз — ягода. Его дикие предки растут в пустынях Африки.	A berry whose wild ancestors grow in African deserts.
+carrot	Морковь	Carrot	Daucus carota	apiaceae	O	veg			Морковь бывала фиолетовой, жёлтой и белой. Оранжевая стала привычной только в XVII веке.	Carrots were purple, yellow and white. Orange became usual only in the 17th century.
+parsnip	Пастернак	Parsnip	Pastinaca sativa	apiaceae	W	veg	9-11		До картофеля пастернак был одним из главных корнеплодов Европы.	Before the potato it was one of Europe’s main roots.
+celery	Сельдерей	Celery	Apium graveolens	apiaceae	G	veg	8-11		Корень, стебли и листья сельдерея — одно растение, просто разные сорта растят ради разного.	Root, stalks and leaves are one plant; varieties are grown for different parts.
+fennel	Фенхель	Fennel	Foeniculum vulgare	apiaceae	W	veg	9-11		Фенхель — родня моркови и укропа; на вкус он слегка анисовый.	A cousin of carrot and dill, tasting faintly of anise.
+parsley	Петрушка	Parsley	Petroselinum crispum	apiaceae	G	herb			В Древней Греции из петрушки плели венки победителям игр.	In ancient Greece victors of the games were crowned with parsley.
+dill	Укроп	Dill	Anethum graveolens	apiaceae	G	herb			Слово «укроп» родня глаголу «кропить»: им сбрызгивали блюда.	Its Russian name is kin to “sprinkle”: it was scattered over dishes.
+coriander	Кинза	Coriander	Coriandrum sativum	apiaceae	G	herb			Листья — кинза, семена — кориандр, а растение одно. Некоторым кинза пахнет мылом: так устроены их гены.	The leaves are cilantro, the seeds coriander: one plant. To some people it tastes of soap, thanks to their genes.
+cumin	Зира	Cumin	Cuminum cyminum	apiaceae	E	spice			Без зиры не бывает плова.	There is no plov without cumin.
+caraway	Тмин	Caraway	Carum carvi	apiaceae	E	spice			Тмин кладут в квашеную капусту и ржаной хлеб.	Caraway goes into sauerkraut and rye bread.
+cabbage	Белокочанная капуста	White cabbage	Brassica oleracea	brassica	G	veg	8-11		Капуста, брокколи, кольраби, брюссельская и цветная выведены из одного дикого растения.	Cabbage, broccoli, kohlrabi, sprouts and cauliflower were all bred from one wild plant.
+redcabbage	Краснокочанная капуста	Red cabbage	Brassica oleracea var. capitata f. rubra	brassica	B	veg	8-11		Сок краснокочанной капусты меняет цвет: в уксусе краснеет, в соде синеет и зеленеет.	Its juice changes colour: red in vinegar, blue and green in soda.
+broccoli	Брокколи	Broccoli	Brassica oleracea var. italica	brassica	G	veg	7-10		Брокколи вывели в Италии; название значит «ростки».	Bred in Italy; the name means “sprouts”.
+cauliflower	Цветная капуста	Cauliflower	Brassica oleracea var. botrytis	brassica	W	veg	7-10		Цветная капуста бывает белой, оранжевой, зелёной и фиолетовой.	Cauliflower comes white, orange, green and purple.
+brussels	Брюссельская капуста	Brussels sprouts	Brassica oleracea var. gemmifera	brassica	G	veg	10-12		Кочанчики растут вдоль высокого стебля, как бусы на нитке.	The little heads grow up a tall stem like beads on a string.
+kohlrabi	Кольраби	Kohlrabi	Brassica oleracea var. gongylodes	brassica	G	veg	6-9		По-немецки «кольраби» значит «капуста-репа».	German for “cabbage turnip”.
+kale	Кейл	Kale	Brassica oleracea var. sabellica	brassica	G	green	9-12		После заморозков кейл становится слаще.	Frost makes kale sweeter.
+radish	Редиска	Radish	Raphanus sativus	brassica	R	veg	5-7		Редиска поспевает за три-четыре недели — быстрее почти всех овощей.	Ripe in three or four weeks, faster than nearly any vegetable.
+turnip	Репа	Turnip	Brassica rapa	brassica	W	veg	8-10		До картофеля репа была главным овощем на Руси — отсюда «проще пареной репы».	Before the potato the turnip was Russia’s main vegetable.
+rutabaga	Брюква	Swede	Brassica napus	brassica	Y	veg	9-11		Брюква — природная помесь капусты и репы.	A natural cross of cabbage and turnip.
+chinesecab	Пекинская капуста	Napa cabbage	Brassica rapa subsp. pekinensis	brassica	G	veg	9-11		Пекинская капуста родом из Китая; из неё делают кимчи.	From China; kimchi is made from it.
+arugula	Руккола	Rocket	Eruca vesicaria	brassica	G	green	5-9		В Древнем Риме рукколу ели как пряность.	The Romans ate rocket as a spice.
+cress	Кресс-салат	Cress	Lepidium sativum	brassica	G	herb			Кресс-салат прорастает на мокрой вате за пару дней.	Cress sprouts on damp cotton in a couple of days.
+mustard	Горчица	Mustard	Sinapis alba	brassica	Y	spice			Горчица — родня капусты. Её жгучесть просыпается, когда порошок встречается с водой.	A cousin of cabbage. Its heat wakes when the powder meets water.
+horseradish	Хрен	Horseradish	Armoracia rusticana	brassica	W	spice			Хрен и васаби — родня, и магазинное «васаби» часто просто хрен с красителем.	Horseradish and wasabi are cousins; shop “wasabi” is often dyed horseradish.
+beet	Свёкла	Beetroot	Beta vulgaris	amaranth	R	veg	8-11		Свекольным соком в старину румянили щёки и красили шерсть.	Beet juice once rouged cheeks and dyed wool.
+spinach	Шпинат	Spinach	Spinacia oleracea	amaranth	G	green	5-9		Шпинатом до сих пор красят зелёную пасту.	Spinach still colours green pasta.
+chard	Мангольд	Chard	Beta vulgaris subsp. vulgaris	amaranth	G	green	6-9		Мангольд — та же свёкла, только выращенная ради листьев.	The same species as beet, grown for its leaves.
+quinoa	Киноа	Quinoa	Chenopodium quinoa	amaranth	E	grain			Киноа не злак, а родня шпината и свёклы.	Not a cereal but a cousin of spinach and beet.
+onion	Лук	Onion	Allium cepa	allium	W	veg			Луковой шелухой на Пасху красят яйца — от золотистого до красно-бурого.	Onion skins dye Easter eggs from gold to red-brown.
+garlic	Чеснок	Garlic	Allium sativum	allium	W	herb			Чеснок пахнет, только когда его режут: острое вещество рождается, когда зубчик повреждён.	Garlic smells only when cut: the sharp compound forms when a clove is damaged.
+leek	Лук-порей	Leek	Allium porrum	allium	G	veg	8-11		Порей — символ Уэльса: в день святого Давида валлийцы прикалывают его к одежде.	The emblem of Wales, worn on St David’s Day.
+greenonion	Зелёный лук	Spring onion	Allium fistulosum	allium	G	herb			Зелёный лук вырастет из луковицы в стакане воды на подоконнике.	It grows from an onion in a glass of water on the sill.
+wildgarlic	Черемша	Wild garlic	Allium ursinum	allium	G	green	4-5		Медведи едят черемшу первой после спячки — отсюда «медвежий лук».	Bears eat it first after hibernation: hence “bear’s garlic”.
+asparagus	Спаржа	Asparagus	Asparagus officinalis	asparag	G	veg	5-6		Белая и зелёная спаржа — одно растение: белую растят, укрывая от света.	White and green asparagus are one plant: the white is grown hidden from light.
+lettuce	Салат латук	Lettuce	Lactuca sativa	aster	G	green	5-9		Латук — родня одуванчика: на срезе стебля у него тоже выступает белый сок.	A cousin of the dandelion: its cut stem weeps the same milky sap.
+jerusalem	Топинамбур	Jerusalem artichoke	Helianthus tuberosus	aster	W	veg	9-11		Топинамбур — подсолнечник с клубнями; цветёт он жёлтыми «солнышками».	A sunflower with tubers, blooming with small yellow suns.
+artichoke	Артишок	Artichoke	Cynara cardunculus var. scolymus	aster	G	veg			Артишок — нераспустившийся бутон огромного чертополоха.	An unopened bud of a giant thistle.
+tarragon	Эстрагон	Tarragon	Artemisia dracunculus	aster	G	herb			Эстрагон — полынь. От него зелёный цвет лимонада «Тархун».	A wormwood; it gives Tarkhun soda its green.
+chamomile	Ромашка	Chamomile	Matricaria chamomilla	aster	W	herb			Ромашку заваривали ещё в Древнем Египте.	Chamomile was brewed in ancient Egypt.
+sunflower	Семечки подсолнечника	Sunflower seeds	Helianthus annuus	aster	E	seed			Подсолнух родом из Северной Америки, а масло из него первыми начали давить в России.	From North America, but Russia was the first to press oil from it.
+mint	Мята	Mint	Mentha	lamiaceae	G	herb			Мята — родня базилика, розмарина и шалфея: все они яснотковые.	A cousin of basil, rosemary and sage.
+basil	Базилик	Basil	Ocimum basilicum	lamiaceae	G	herb			Название «базилик» идёт от греческого «царский».	The name comes from the Greek for “royal”.
+rosemary	Розмарин	Rosemary	Salvia rosmarinus	lamiaceae	G	herb			Ботаники недавно перенесли розмарин в род шалфеев.	Botanists recently moved rosemary into the sage genus.
+thyme	Тимьян	Thyme	Thymus	lamiaceae	G	herb			На Руси тимьян-чабрец звали «богородской травой».	In old Russia thyme was called “Our Lady’s herb”.
+oregano	Орегано	Oregano	Origanum vulgare	lamiaceae	G	herb			Орегано — это душица, которая растёт и на наших лугах.	Oregano is wild marjoram, growing in meadows across Europe.
+melissa	Мелисса	Lemon balm	Melissa officinalis	lamiaceae	G	herb			«Мелисса» по-гречески значит «пчела»: пчёлы её обожают.	“Melissa” is Greek for bee: bees adore it.
+chia	Чиа	Chia	Salvia hispanica	lamiaceae	E	seed			Чиа — шалфей. Ацтеки платили семенами чиа дань.	Chia is a sage. The Aztecs paid tribute in its seeds.
+blueberry	Черника	Bilberry	Vaccinium myrtillus	ericaceae	B	berry	7-8		Синеву чернике дают антоцианы — те же, что в баклажане и краснокочанной капусте.	Anthocyanins colour it, the same as in aubergine and red cabbage.
+bigblueberry	Голубика	Blueberry	Vaccinium uliginosum	ericaceae	B	berry	7-9		На севере голубику звали «пьяницей» — напрасно: голова кружится от багульника, который растёт рядом.	In the north it was called “drunkard”, unfairly: the Labrador tea growing beside it is to blame.
+cranberry	Клюква	Cranberry	Vaccinium oxycoccos	ericaceae	R	berry	9-11		Клюква умеет прыгать: в ягоде есть воздушные камеры. Так на заводах отбирают спелую.	Cranberries bounce thanks to air pockets; that is how good ones are sorted.
+lingonberry	Брусника	Lingonberry	Vaccinium vitis-idaea	ericaceae	R	berry	8-9		Мочёная брусника хранится всю зиму: она сама себя консервирует.	Soaked lingonberries keep all winter: the berry preserves itself.
+apple	Яблоко	Apple	Malus domestica	rosaceae	R	fruit	8-10		Яблоня, груша, слива, малина и шиповник — одно семейство, розоцветные.	Apple, pear, plum, raspberry and rose hip are one family.
+pear	Груша	Pear	Pyrus communis	rosaceae	Y	fruit	8-10		Груши лучше дозревают сорванными, чем на ветке.	Pears ripen better off the tree than on it.
+plum	Слива	Plum	Prunus domestica	rosaceae	B	fruit	8-9		Чернослив — это сушёная слива.	Prunes are dried plums.
+cherry	Вишня	Sour cherry	Prunus cerasus	rosaceae	R	berry	7		Вишня — природная помесь черешни и степной вишни.	A natural cross of sweet cherry and ground cherry.
+sweetcherry	Черешня	Sweet cherry	Prunus avium	rosaceae	R	berry	6-7		Косточки черешни находят на стоянках каменного века.	Its pits turn up at Stone Age sites.
+apricot	Абрикос	Apricot	Prunus armeniaca	rosaceae	O	fruit	7-8		Латинское имя абрикоса значит «армянская слива».	Its Latin name means “Armenian plum”.
+peach	Персик	Peach	Prunus persica	rosaceae	O	fruit	7-9		Персик родом из Китая, хотя имя говорит «персидский».	From China, though its name says Persian.
+strawberry	Клубника	Strawberry	Fragaria × ananassa	rosaceae	R	berry	6-7		Садовая клубника — помесь двух американских земляник, а родилась она во Франции.	Garden strawberry is a cross of two American species, born in France.
+wildstrawberry	Земляника	Wild strawberry	Fragaria vesca	rosaceae	R	berry	6-7		Землянику назвали так, потому что она растёт у самой земли.	Its Russian name says it grows close to the earth.
+raspberry	Малина	Raspberry	Rubus idaeus	rosaceae	R	berry	7-8		Малина — не одна ягода, а десятки крошечных костянок.	Not one berry but dozens of tiny drupes.
+blackberry	Ежевика	Blackberry	Rubus fruticosus	rosaceae	B	berry	8-9		Ежевика — родня малины, только колючая, как ёж.	The raspberry’s cousin, prickly as a hedgehog.
+cloudberry	Морошка	Cloudberry	Rubus chamaemorus	rosaceae	O	berry	7-8		Перед смертью Пушкин попросил мочёной морошки.	On his deathbed Pushkin asked for cloudberries.
+rosehip	Шиповник	Rose hip	Rosa canina	rosaceae	R	berry	9-10		В шиповнике витамина C в несколько раз больше, чем в лимоне.	Rose hips hold several times the vitamin C of a lemon.
+quince	Айва	Quince	Cydonia oblonga	rosaceae	Y	fruit	10-11		Сырая айва твёрдая и вяжет рот, а в варенье становится розовой.	Hard and astringent raw, it turns pink when cooked.
+rowan	Рябина	Rowan	Sorbus aucuparia	rosaceae	O	berry	9-11		После первых морозов рябина теряет горечь.	Rowan loses its bitterness after the first frost.
+chokeberry	Черноплодная рябина	Chokeberry	Aronia melanocarpa	rosaceae	B	berry	8-10		Черноплодка вовсе не рябина, а её родственница из Северной Америки.	Not a rowan at all but a relative from North America.
+almond	Миндаль	Almond	Prunus dulcis	rosaceae	E	nut			Миндаль — косточка, родня персика и сливы.	A stone fruit’s seed, cousin of peach and plum.
+lemon	Лимон	Lemon	Citrus × limon	rutaceae	Y	fruit			Лимон — помесь горького апельсина и цитрона.	A cross of bitter orange and citron.
+orange	Апельсин	Orange	Citrus × sinensis	rutaceae	O	fruit	12-3		«Апельсин» по-голландски значит «китайское яблоко».	The Russian word comes from Dutch for “Chinese apple”.
+mandarin	Мандарин	Mandarin	Citrus reticulata	rutaceae	O	fruit	12-2		Мандарин — один из трёх диких предков всех цитрусовых.	One of the three wild ancestors of all citrus.
+grapefruit	Грейпфрут	Grapefruit	Citrus × paradisi	rutaceae	R	fruit	12-3		Грейпфрут появился на Барбадосе как случайная помесь помело и апельсина.	It appeared in Barbados as a chance cross of pomelo and orange.
+lime	Лайм	Lime	Citrus aurantiifolia	rutaceae	G	fruit			Британских моряков прозвали «лайми»: сок лайма спасал их от цинги.	British sailors were nicknamed “limeys”: lime juice kept off scurvy.
+banana	Банан	Banana	Musa	musa	Y	fruit			Банан — ягода, а «пальма», на которой он растёт, — огромная трава.	A berry, and the “tree” it grows on is a giant herb.
+pineapple	Ананас	Pineapple	Ananas comosus	bromel	Y	fruit			Ананас растёт из земли, а не на пальме, и один плод зреет почти два года.	It grows from the ground, not on a palm, and takes nearly two years.
+kiwi	Киви	Kiwi	Actinidia deliciosa	actinid	G	fruit			Киви родом из Китая; новозеландцы назвали его в честь своей птицы.	From China; New Zealanders named it after their bird.
+mango	Манго	Mango	Mangifera indica	anacard	O	fruit			Манго — родня фисташки и кешью.	A cousin of pistachio and cashew.
+avocado	Авокадо	Avocado	Persea americana	laurel	G	fruit			Авокадо — родня лаврового листа и корицы.	A cousin of bay leaf and cinnamon.
+fig	Инжир	Fig	Ficus carica	moraceae	B	fruit	8-10		Инжир — родня фикуса, который стоит на подоконнике.	A cousin of the ficus on the windowsill.
+grape	Виноград	Grape	Vitis vinifera	vitac	B	berry	8-10		Виноград возделывают уже восемь тысяч лет.	Grapes have been grown for eight thousand years.
+pomegranate	Гранат	Pomegranate	Punica granatum	lythrum	R	fruit	10-1		В одном гранате бывает больше шестисот зёрен.	One pomegranate can hold over six hundred seeds.
+persimmon	Хурма	Persimmon	Diospyros kaki	ebenac	O	fruit	11-1		Хурма — родня чёрного дерева. Её латинское имя значит «пища богов».	A cousin of ebony; its Latin name means “food of the gods”.
+dates	Финики	Dates	Phoenix dactylifera	arecac	E	fruit			Финиковая пальма плодоносит больше полувека.	A date palm bears fruit for more than half a century.
+coconut	Кокос	Coconut	Cocos nucifera	arecac	W	nut			Кокос — не орех, а костянка, и он умеет переплывать океаны.	Not a nut but a drupe, and it can float across oceans.
+olive	Оливки	Olives	Olea europaea	oleac	G	fruit			Оливки и маслины — одни и те же плоды: чёрные просто дозрели или их подкрасили.	Green and black olives are the same fruit: black ones are riper, or dyed.
+blackcurrant	Чёрная смородина	Blackcurrant	Ribes nigrum	grossul	B	berry	7-8		У чёрной смородины пахнут и листья — их кладут в соленья.	Its leaves smell too, and go into pickles.
+redcurrant	Красная смородина	Redcurrant	Ribes rubrum	grossul	R	berry	7		В красной смородине много пектина, поэтому желе из неё застывает само.	Rich in pectin, so its jelly sets by itself.
+gooseberry	Крыжовник	Gooseberry	Ribes uva-crispa	grossul	G	berry	7-8		Варенье из крыжовника звали «царским».	Gooseberry jam was called “royal jam”.
+seabuckthorn	Облепиха	Sea buckthorn	Hippophae rhamnoides	elaeagn	O	berry	9-10		Ягоды облепляют ветки со всех сторон — отсюда имя.	The berries cling all round the twigs: hence its Russian name.
+honeysuckle	Жимолость	Honeyberry	Lonicera caerulea	caprifol	B	berry	6		Съедобная жимолость поспевает раньше всех ягод, в начале июня.	Honeyberries ripen before all other berries, in early June.
+cornel	Кизил	Cornelian cherry	Cornus mas	cornus	R	berry	9		Кизил цветёт раньше, чем распускаются листья, ещё в марте.	It blooms before its leaves, back in March.
+passion	Маракуйя	Passion fruit	Passiflora edulis	passiflor	B	fruit			В цветке маракуйи миссионеры видели знаки страстей Христовых — отсюда «страстоцвет».	Missionaries saw signs of the Passion in its flower.
+buckwheat	Гречка	Buckwheat	Fagopyrum esculentum	polygon	E	grain			Гречка вовсе не злак, а родственница щавеля и ревеня.	Not a cereal at all but a cousin of sorrel and rhubarb.
+oats	Овсянка	Oats	Avena sativa	poaceae	E	grain			В овсе есть особая клетчатка, бета-глюкан: от неё каша и становится клейкой.	Oats hold beta-glucan, the fibre that makes porridge creamy.
+wholewheat	Цельнозерновая пшеница	Whole wheat	Triticum aestivum	poaceae	E	grain			В цельном зерне остаются отруби и зародыш, а с ними клетчатка.	Whole grain keeps its bran and germ, and their fibre.
+rye	Рожь	Rye	Secale cereale	poaceae	E	grain			Рожь долго росла сорняком в пшенице, пока сама не стала хлебом севера.	Rye was a weed in wheat fields until it became the bread of the north.
+barley	Перловка	Pearl barley	Hordeum vulgare	poaceae	E	grain			Перловка — ячмень, названный так за сходство с жемчугом.	Barley, named in Russian for grains like pearls.
+millet	Пшено	Millet	Panicum miliaceum	poaceae	Y	grain			Пшено делают из проса, а пшённая каша — одна из древнейших на свете.	Made from proso millet, one of the oldest porridges in the world.
+brownrice	Бурый рис	Brown rice	Oryza sativa	poaceae	E	grain			Бурый рис — тот же рис, только с отрубями.	The same rice, keeping its bran.
+spelt	Полба	Spelt	Triticum spelta	poaceae	E	grain			Полба — древняя пшеница. Пушкинский Балда просил кормить его варёной полбой.	An ancient wheat; in Pushkin’s tale the worker Balda asks to be fed on it.
+corn	Кукуруза	Sweetcorn	Zea mays	poaceae	Y	veg	8-9		Дикой кукурузы не бывает: её вывели в Мексике из травы теосинте.	There is no wild maize: it was bred in Mexico from teosinte grass.
+whiterice	Белый рис	White rice	Oryza sativa	poaceae	W	refined			С белого риса сняты отруби и зародыш, клетчатки в нём мало. Поэтому он даёт не краску, а побелку.	White rice has lost its bran and germ, and most of its fibre, so it gives whitewash rather than paint.
+whitebread	Белый хлеб	White bread	Triticum aestivum	poaceae	W	refined			Белая мука — зерно без отрубей. Цельнозерновой хлеб даёт полную краску, белый — побелку.	White flour is grain without its bran. Wholemeal bread gives full paint, white bread whitewash.
+pasta	Макароны	Pasta	Triticum durum	poaceae	W	refined			Обычные макароны дают побелку, а цельнозерновые засчитываются как цельная пшеница.	Ordinary pasta gives whitewash; wholemeal pasta counts as whole wheat.
+lentil	Чечевица	Lentil	Lens culinaris	fabaceae	E	legume			Чечевица — одна из первых одомашненных культур. За чечевичную похлёбку Исав продал первородство.	One of the first crops ever farmed. Esau sold his birthright for a lentil stew.
+chickpea	Нут	Chickpea	Cicer arietinum	fabaceae	E	legume			«Хумус» по-арабски и значит «нут».	“Hummus” is simply Arabic for chickpea.
+peas	Горох	Peas	Pisum sativum	fabaceae	G	legume	6-8		На горохе Мендель открыл законы наследственности.	Mendel found the laws of heredity in peas.
+beans	Фасоль	Beans	Phaseolus vulgaris	fabaceae	E	legume			Фасоль приплыла в Европу из Америки вместе с томатом и картофелем.	Beans sailed to Europe from America with the tomato and the potato.
+greenbeans	Стручковая фасоль	Green beans	Phaseolus vulgaris	fabaceae	G	veg	7-9		Стручковая фасоль — та же фасоль, только съеденная молодой, вместе со створками.	The same bean, eaten young, pod and all.
+favabeans	Бобы	Broad beans	Vicia faba	fabaceae	G	legume	7-8		Пока из Америки не привезли фасоль, бобами в Европе звали именно их.	Before American beans arrived, these were Europe’s beans.
+soy	Соя	Soy	Glycine max	fabaceae	E	legume			Из сои делают тофу, мисо, соевый соус и темпе.	Soy becomes tofu, miso, soy sauce and tempeh.
+mung	Маш	Mung beans	Vigna radiata	fabaceae	G	legume			Ростки, которые продают как «соевые», чаще всего — маш.	The “bean sprouts” in shops are usually mung.
+peanut	Арахис	Peanut	Arachis hypogaea	fabaceae	E	legume			Арахис — бобовое, а не орех: его бобы зреют под землёй.	A legume, not a nut: its pods ripen underground.
+walnut	Грецкий орех	Walnut	Juglans regia	juglans	E	nut			Ядро грецкого ореха похоже на мозг, и в старину верили, что он прибавляет ума.	The kernel looks like a brain, and people once believed it fed the mind.
+hazelnut	Фундук	Hazelnut	Corylus avellana	betula	E	nut			Фундук — садовая лещина, родня берёзы.	Hazel is a cousin of the birch.
+pistachio	Фисташки	Pistachios	Pistacia vera	anacard	G	nut			Спелые фисташки раскрываются сами. В Иране говорят, что они улыбаются.	Ripe pistachios split open by themselves; in Iran they say they smile.
+cashew	Кешью	Cashews	Anacardium occidentale	anacard	E	nut			Орех кешью растёт снаружи плода — «кешью-яблока».	The cashew grows outside its fruit, the cashew apple.
+pinenut	Кедровые орехи	Pine nuts	Pinus sibirica	pinaceae	E	nut			Это семена сибирской кедровой сосны; шишка зреет больше года.	Seeds of the Siberian pine, whose cones take over a year to ripen.
+chestnut	Каштан	Chestnut	Castanea sativa	fagaceae	E	nut	10-12		Съедобный каштан — родня дуба, а не конского каштана.	A cousin of the oak, not of the horse chestnut.
+pumpkinseed	Тыквенные семечки	Pumpkin seeds	Cucurbita pepo	cucurbit	G	seed			Бывают тыквы с голыми семечками, вовсе без кожуры.	Some pumpkins grow seeds with no hulls at all.
+sesame	Кунжут	Sesame	Sesamum indicum	pedal	W	seed			Спелые коробочки кунжута лопаются с треском — отсюда «Сезам, откройся!».	Ripe sesame pods burst open: hence “Open sesame!”.
+flax	Льняное семя	Flaxseed	Linum usitatissimum	linac	E	seed			Из того же льна ткут полотно.	The same flax is woven into linen.
+hemp	Семена конопли	Hemp seeds	Cannabis sativa	cannab	E	seed			Пищевая конопля не дурманит. На Руси из её семян давили масло.	Food hemp doesn’t intoxicate; Russia pressed oil from its seeds.
+poppy	Мак	Poppy seeds	Papaver somniferum	papaver	B	seed			Маковые зёрна бывают синими, серыми и белыми.	Poppy seeds come blue, grey and white.
+champignon	Шампиньоны	Button mushrooms	Agaricus bisporus	fungi	W	mushroom			Грибы ближе к животным, чем к растениям, но в счёт идут.	Fungi are closer to animals than to plants, but they count.
+oyster	Вешенки	Oyster mushrooms	Pleurotus ostreatus	fungi	W	mushroom			Вешенки растут на пнях и висят, как ушки, — отсюда имя.	They hang from stumps like ears.
+porcini	Белые грибы	Porcini	Boletus edulis	fungi	E	mushroom	7-9		Белым гриб назвали за мякоть, которая не темнеет при сушке.	Called “white” in Russian for flesh that stays pale when dried.
+chanterelle	Лисички	Chanterelles	Cantharellus cibarius	fungi	O	mushroom	7-9		Лисички почти не бывают червивыми.	Chanterelles are almost never wormy.
+turmeric	Куркума	Turmeric	Curcuma longa	ginger	Y	spice			Куркумой красили одежды буддийских монахов.	Turmeric dyed the robes of Buddhist monks.
+gingerroot	Имбирь	Ginger	Zingiber officinale	ginger	Y	spice			Имбирь — корневище, родня куркумы и кардамона.	A rhizome, cousin of turmeric and cardamom.
+cardamom	Кардамон	Cardamom	Elettaria cardamomum	ginger	G	spice			Кардамон — третья по цене пряность после шафрана и ванили.	The third most costly spice after saffron and vanilla.
+cinnamon	Корица	Cinnamon	Cinnamomum verum	laurel	E	spice			Корица — кора. Её снимают тонкими слоями, и она сама сворачивается в трубочки.	Cinnamon is bark, peeled thin; it curls into quills as it dries.
+bay	Лавровый лист	Bay leaf	Laurus nobilis	laurel	G	spice			Из лавра плели венки победителям — отсюда слово «лауреат».	Victors wore laurel wreaths: hence “laureate”.
+blackpepper	Чёрный перец	Black pepper	Piper nigrum	piper	E	spice			Чёрный, белый и зелёный перец — плоды одной лианы, просто собранные и высушенные по-разному.	Black, white and green pepper are one vine’s fruit, picked and dried differently.
+paprika	Паприка	Paprika	Capsicum annuum	solanaceae	R	spice			Паприка — молотый сладкий перец. Из него венгр Сент-Дьёрдьи впервые выделил витамин C.	Ground sweet pepper; Szent-Györgyi first isolated vitamin C from it.
+chili	Острый перец	Chili	Capsicum frutescens	solanaceae	R	spice			Птицы не чувствуют жгучести перца — едят его и разносят семена.	Birds can’t feel the heat of chili, so they eat it and spread the seeds.
+saffron	Шафран	Saffron	Crocus sativus	iridac	Y	spice			Шафран — рыльца крокуса: на грамм уходит полторы сотни цветков.	Saffron is crocus stigmas: about 150 flowers make a gram.
+clove	Гвоздика	Cloves	Syzygium aromaticum	myrtle	E	spice			Гвоздика — нераскрытые бутоны; они похожи на гвоздики, отсюда и имя.	Unopened flower buds, shaped like little nails.
+allspice	Душистый перец	Allspice	Pimenta dioica	myrtle	E	spice			Душистый перец пахнет корицей, гвоздикой и мускатом сразу.	Allspice smells of cinnamon, clove and nutmeg at once.
+nutmeg	Мускатный орех	Nutmeg	Myristica fragrans	myristic	E	spice			Ради мускатного острова Рун голландцы отдали англичанам Манхэттен.	For the nutmeg island of Run the Dutch gave the English Manhattan.
+vanilla	Ваниль	Vanilla	Vanilla planifolia	orchid	E	spice			Ваниль — стручок орхидеи. Вне Мексики её цветы опыляют вручную.	Vanilla is an orchid pod; outside Mexico its flowers are pollinated by hand.
+cocoa	Какао	Cocoa	Theobroma cacao	malvac	E	spice			Ацтеки расплачивались какао-бобами, как монетами.	The Aztecs paid with cocoa beans like coins.
+coffee	Кофе	Coffee	Coffea arabica	rubiac	E	spice			Кофейные зёрна — косточки красной ягоды.	Coffee beans are the stones of a red berry.
+tea	Чай	Tea	Camellia sinensis	theac	G	spice			Чёрный, зелёный и белый чай — листья одного куста, обработанные по-разному.	Black, green and white tea are one bush’s leaves, processed differently.
+capers	Каперсы	Capers	Capparis spinosa	capparac	G	spice			Каперсы — бутоны куста, который растёт прямо из каменных стен.	Capers are buds of a shrub that grows straight out of stone walls.
+juniper	Можжевельник	Juniper berries	Juniperus communis	cupress	B	spice			Ягоды можжевельника на самом деле мясистые шишки.	Juniper “berries” are really fleshy cones.
+kefir	Кефир	Kefir		dairy	-	ferment			Кефирные грибки — не грибы, а целое сообщество бактерий и дрожжей.	Kefir grains aren’t grains but a colony of bacteria and yeasts.
+yogurt	Йогурт	Yogurt		dairy	-	ferment			Для йогурта молоко сквашивают двумя бактериями: болгарской палочкой и стрептококком.	Yogurt is milk soured by two bacteria working together.
+ryazhenka	Ряженка	Ryazhenka		dairy	-	ferment			Ряженку делают из топлёного молока — отсюда её кремовый цвет.	Made from baked milk, hence its creamy colour.
+sauerkraut	Квашеная капуста	Sauerkraut		brassica	-	ferment		cabbage	Капусту квасят без уксуса: кислоту дают бактерии, которые живут на самих листьях.	No vinegar: the acid comes from bacteria living on the leaves.
+kimchi	Кимчи	Kimchi		brassica	-	ferment		chinesecab	В Корее сотни видов кимчи и даже есть музей кимчи.	Korea has hundreds of kinds of kimchi, and a kimchi museum.
+miso	Мисо	Miso		fabaceae	-	ferment		soy	Мисо зреет месяцами, а то и годами.	Miso matures for months, sometimes years.
+pickles	Бочковые огурцы	Barrel pickles		cucurbit	-	ferment		cucumber	Живые только бочковые огурцы: в маринованных с уксусом бактерий нет.	Only barrel-fermented pickles are alive; vinegar pickles aren’t.
+soakedapples	Мочёные яблоки	Soaked apples		rosaceae	-	ferment		apple	Яблоки мочили в бочках со ржаной соломой, и они хранились до весны.	Apples soaked in barrels with rye straw kept until spring.
+kvass	Квас	Kvass		poaceae	-	ferment		rye	Настоящий квас бродит сам; магазинный часто просто газировка со вкусом кваса.	Real kvass ferments; shop kvass is often just soda with its taste.
+kombucha	Чайный гриб	Kombucha		theac	-	ferment			Чайный гриб — плёнка из бактерий и дрожжей, которая растёт на сладком чае.	A mat of bacteria and yeasts that grows on sweet tea.

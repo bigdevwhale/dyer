@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dyer</string>
+    <string name="tab_square">Quarter</string>
+    <string name="tab_shelf">Shelf</string>
+    <string name="tab_kingdom">Kingdom</string>
+</resources>
